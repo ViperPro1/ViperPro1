@@ -106,7 +106,7 @@ const currentMission = {
 
 ### 📡 CONNECT TO THE NETWORK
 
-<a href="https://discord.com/users/YOUR_DISCORD">
+<a href="https://discord.com/users/jozyf9">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://twitter.com/YOUR_TWITTER">
@@ -149,7 +149,7 @@ const currentMission = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
 
-**⚡ Powered by caffeine, curiosity, and chaotic code ⚡**
+**⚡ Powered by viperpro, curiosity, and chaotic code ⚡**
 
 </div>
 
